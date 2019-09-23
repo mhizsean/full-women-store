@@ -1,0 +1,20 @@
+.jumbotron {
+ background: rgb(216, 127, 127);
+ background-size: cover;
+ height: 500px;
+
+}
+
+.jumbotron img {
+    height: 435px;
+}
+.first {
+    margin-left: -30px; 
+}
+ .second {
+    margin-left: 550px;
+}
+
+.contains-1 {
+    margin-top: -350px;
+}

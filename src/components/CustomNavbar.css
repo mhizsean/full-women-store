@@ -1,0 +1,9 @@
+nav link {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.navbar-brand {
+    padding-left: 10px;
+}
